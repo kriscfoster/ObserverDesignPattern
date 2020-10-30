@@ -1,6 +1,6 @@
 package com.kriscfoster;
 
-public class Employee extends Observable {
+public class Employee extends Subject {
     private String name;
     private int salary;
 

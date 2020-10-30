@@ -3,7 +3,7 @@ package com.kriscfoster;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Observable {
+public class Subject {
 
     private List<Observer> observers = new ArrayList<>();
 
